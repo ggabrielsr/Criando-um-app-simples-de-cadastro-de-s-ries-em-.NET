@@ -1,0 +1,16 @@
+C:\Users\USER\CadastroUser\obj\Debug\net5.0\CadastroUser.csproj.AssemblyReference.cache
+C:\Users\USER\CadastroUser\obj\Debug\net5.0\CadastroUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\CadastroUser\obj\Debug\net5.0\CadastroUser.AssemblyInfoInputs.cache
+C:\Users\USER\CadastroUser\obj\Debug\net5.0\CadastroUser.AssemblyInfo.cs
+C:\Users\USER\CadastroUser\obj\Debug\net5.0\CadastroUser.csproj.CoreCompileInputs.cache
+C:\Users\USER\CadastroUser\bin\Debug\net5.0\CadastroUser.exe
+C:\Users\USER\CadastroUser\bin\Debug\net5.0\CadastroUser.deps.json
+C:\Users\USER\CadastroUser\bin\Debug\net5.0\CadastroUser.runtimeconfig.json
+C:\Users\USER\CadastroUser\bin\Debug\net5.0\CadastroUser.runtimeconfig.dev.json
+C:\Users\USER\CadastroUser\bin\Debug\net5.0\CadastroUser.dll
+C:\Users\USER\CadastroUser\bin\Debug\net5.0\ref\CadastroUser.dll
+C:\Users\USER\CadastroUser\bin\Debug\net5.0\CadastroUser.pdb
+C:\Users\USER\CadastroUser\obj\Debug\net5.0\CadastroUser.dll
+C:\Users\USER\CadastroUser\obj\Debug\net5.0\ref\CadastroUser.dll
+C:\Users\USER\CadastroUser\obj\Debug\net5.0\CadastroUser.pdb
+C:\Users\USER\CadastroUser\obj\Debug\net5.0\CadastroUser.genruntimeconfig.cache
